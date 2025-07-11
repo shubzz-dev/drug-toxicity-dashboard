@@ -1,0 +1,6 @@
+pytdc
+pandas
+scikit-learn
+numpy
+xgboost
+plotly
